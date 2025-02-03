@@ -1,0 +1,159 @@
+"ccodealp","country","parl_power_index"
+"AFG","Afghanistan",0.38
+"ALB","Albania",0.75
+"DZA","Algeria",0.25
+"AGO","Angola",0.44
+"ARG","Argentina",0.5
+"ARM","Armenia",0.56
+"AUS","Australia",0.63
+"AUT","Austria",0.72
+"AZE","Azerbaijan",0.44
+"BHR","Bahrain",0.19
+"BGD","Bangladesh",0.59
+"BLR","Belarus",0.25
+"BEL","Belgium",0.75
+"BEN","Benin",0.56
+"BTN","Bhutan",0.22
+"BOL","Bolivia",0.44
+"BIH","Bosnia-Herzegovina",0.63
+"BWA","Botswana",0.44
+"BRA","Brazil",0.56
+"BGR","Bulgaria",0.78
+"BFA","Burkina Faso",0.53
+"BDI","Burundi",0.41
+"KHM","Cambodia",0.59
+"CMR","Cameroon",0.25
+"CAN","Canada",0.72
+"CAF","Central African Republic",0.34
+"TCD","Chad",0.22
+"CHL","Chile",0.56
+"CHN","China",0.34
+"COL","Colombia",0.56
+"COM","Comoros",0.38
+"COG","Congo (Brazzaville)",0.38
+"COD","Congo (Kinshasa)",0.25
+"CRI","Costa Rica",0.53
+"CIV","Cote d’Ivoire",0.38
+"HRV","Croatia",0.78
+"CUB","Cuba",0.28
+"CYP","Cyprus",0.41
+"CZE","Czech Republic",0.81
+"DNK","Denmark",0.78
+"DOM","Dominican Republic",0.41
+"ECU","Ecuador",0.53
+"EGY","Egypt",0.28
+"SLV","El Salvador",0.59
+"ERI","Eritrea",0.25
+"EST","Estonia",0.75
+"ETH","Ethiopia",0.5
+"FJI","Fiji",0.63
+"FIN","Finland",0.72
+"FRA","France",0.56
+"GAB","Gabon",0.44
+"GMB","Gambia",0.31
+"GEO","Georgia",0.59
+"DEU","Germany",0.84
+"GHA","Ghana",0.47
+"GRC","Greece",0.81
+"GTM","Guatemala",0.5
+"GIN","Guinea",0.31
+"GNB","Guinea-Bissau",0.25
+"GUY","Guyana",0.38
+"HTI","Haiti",0.44
+"HND","Honduras",0.53
+"HUN","Hungary",0.75
+"IND","India",0.63
+"IDN","Indonesia",0.56
+"IRN","Iran",0.44
+"IRQ","Iraq",0.63
+"IRL","Ireland",0.66
+"ISR","Israel",0.75
+"ITA","Italy",0.84
+"JAM","Jamaica",0.63
+"JPN","Japan",0.66
+"JOR","Jordan",0.22
+"KAZ","Kazakhstan",0.38
+"KEN","Kenya",0.31
+"KWT","Kuwait",0.38
+"KGZ","Kyrgyzstan",0.47
+"LAO","Laos",0.28
+"LVA","Latvia",0.78
+"LBN","Lebanon",0.5
+"LSO","Lesotho",0.53
+"LBR","Liberia",0.44
+"LBY","Libya",0.13
+"LTU","Lithuania",0.78
+"MKD","Macedonia",0.81
+"MDG","Madagascar",0.41
+"MWI","Malawi",0.38
+"MYS","Malaysia",0.34
+"MLI","Mali",0.34
+"MRT","Mauritania",0.31
+"MUS","Mauritius",0.66
+"MEX","Mexico",0.44
+"MDA","Moldova",0.75
+"MNG","Mongolia",0.84
+"MAR","Morocco",0.31
+"MOZ","Mozambique",0.44
+"MMR","Myanmar",0
+"NAM","Namibia",0.5
+"NPL","Nepal",0.44
+"NLD","Netherlands",0.78
+"NZL","New Zealand",0.69
+"NIC","Nicaragua",0.69
+"NER","Niger",0.5
+"NGA","Nigeria",0.47
+"PRK","North Korea",0.13
+"NOR","Norway",0.72
+"OMN","Oman",0.16
+"PAK","Pakistan",0.44
+"PAN","Panama",0.5
+"PNG","Papua New Guinea",0.66
+"PRY","Paraguay",0.56
+"PER","Peru",0.66
+"PHL","Philippines",0.56
+"POL","Poland",0.75
+"PRT","Portugal",0.63
+"QAT","Qatar",0.22
+"ROU","Romania",0.72
+"RUS","Russia",0.44
+"RWA","Rwanda",0.47
+"SAU","Saudi Arabia",0.09
+"SEN","Senegal",0.44
+"SRB","Serbia & Montenegro",0.69
+"SLE","Sierra Leone",0.41
+"SGP","Singapore",0.38
+"SVK","Slovakia",0.72
+"SVN","Slovenia",0.75
+"SOM","Somalia",0
+"ZAF","South Africa",0.63
+"KOR","South Korea",0.59
+"ESP","Spain",0.72
+"LKA","Sri Lanka",0.5
+"SDN","Sudan",0.22
+"SWZ","Swaziland",0.25
+"SWE","Sweden",0.72
+"CHE","Switzerland",0.72
+"SYR","Syria",0.31
+"TWN","Taiwan",0.59
+"TJK","Tajikistan",0.31
+"TZA","Tanzania",0.31
+"THA","Thailand",0.59
+"TLS","Timor-Leste",0.47
+"TGO","Togo",0.38
+"TTO","Trinidad & Tobago",0.53
+"TUN","Tunisia",0.28
+"TUR","Turkey",0.78
+"TKM","Turkmenistan",0.06
+"UGA","Uganda",0.44
+"UKR","Ukraine",0.59
+"ARE","United Arab Emirates",0.06
+"GBR","United Kingdom",0.78
+"USA","United States of America",0.63
+"URY","Uruguay",0.66
+"UZB","Uzbekistan",0.28
+"VEN","Venezuela",0.53
+"VNM","Vietnam",0.34
+"YEM","Yemen",0.44
+"ZMB","Zambia",0.28
+"ZWE","Zimbabwe",0.31
